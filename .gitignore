@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except these
+!README.md
+!screenshots/
+!screenshots/*
+!.gitignore
